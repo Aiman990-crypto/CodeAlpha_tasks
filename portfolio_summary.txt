@@ -1,0 +1,6 @@
+Your Stock Portfolio:
+- TSLA: 2 shares × $250 = $500
+- AMZN: 3 shares × $125 = $375
+- AAPL: 1 shares × $180 = $180
+
+Total Investment Value: $1055
